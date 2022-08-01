@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Nilatpal 👋
 
 <!--
 **nilatpal01/nilatpal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I am a full-stack web-developer with the knowledge of MERN Stack
+
+
