@@ -1,4 +1,4 @@
-### Hi there, I am Nilatpal 👋
+## Hi, I'm Nilatpal 👋
 
 <!--
 **nilatpal01/nilatpal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am a full-stack web-developer with the knowledge of MERN Stack
+### I am a full-stack web-developer 😄
+
+🔭 My interests are to work on JavaScript, ReactJS, NodeJS, ExpressJS and MongoDB.
+
+📫 Reach me at nilatpaldas60@gmail.com
 
 
